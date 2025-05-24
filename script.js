@@ -50,14 +50,13 @@ function playGame() {
 
     console.log(playRound(getHumanChoice(), getComputerChoice()));
     if ((humanScore < 5) && (computerScore < 5)){
-        playGame();
+        console.log(playGame());
     } else {
-        endGame();
+        console.log(endGame());
     }
 
 // function that ends the game
     function endGame() {
-        // console.log("test");
         if (humanScore > computerScore) {
             return `You win!
             Your score = ${humanScore}
@@ -105,4 +104,4 @@ function playGame() {
 
 
 
-playGame();
+console.log(playGame());
