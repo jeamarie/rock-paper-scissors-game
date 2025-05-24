@@ -13,3 +13,11 @@ function getComputerChoice() {
 }
 
 console.log(getComputerChoice());
+
+function getHumanChoice() {
+    let humanChoice = prompt("Choose your weapon:");
+    return humanChoice;
+}
+
+console.log(getHumanChoice());
+
