@@ -2,6 +2,8 @@
 
 JavaScript Project: Rock Paper Scissors
 
+[Click to open the live preview.](https://jeamarie.github.io/rock-paper-scissors-game/)
+
 Do you have what it takes to be the Bato-Bato-Pik champion? Battle against the computer in this game of Rock, Papers, Scissors! 
 
 Guidelines:
