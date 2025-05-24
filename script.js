@@ -74,34 +74,4 @@ function playGame() {
 
 }
 
-
-
-// let roundOne = playRound(getHumanChoice(), getComputerChoice());
-// let roundTwo = playRound(getHumanChoice(), getComputerChoice());
-// let roundThree = playRound(getHumanChoice(), getComputerChoice());
-// let roundFour = playRound(getHumanChoice(), getComputerChoice());
-// let roundFive = playRound(getHumanChoice(), getComputerChoice());
-
-// console.log(roundOne);
-// console.log(roundTwo);
-// console.log(roundThree);
-// console.log(roundFour);
-// console.log(roundFive);
-
-// if (humanScore > computerScore) {
-//     return `You win!
-//     Your score = ${humanScore}
-//     Computer's score = ${computerScore}`
-// } else if (humanScore < computerScore) {
-//     return `You lose!
-//     Your score = ${humanScore}
-//     Computer's score = ${computerScore}`
-// } else {
-//     return `It's a draw.
-//     Your score = ${humanScore}
-//     Computer's score = ${computerScore}`
-// }
-
-
-
 playGame();
