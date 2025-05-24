@@ -2,4 +2,12 @@
 
 JavaScript Project: Rock Paper Scissors
 
-Battle against the computer with the game of Rock Paper Scissors! Whoever gets to 5 points first wins the game and will be held the Bato-Bato-Pik champion!
+Do you have what it takes to be the Bato-Bato-Pik champion! Battle against the computer in this game of Rock, Papers, Scissors! 
+
+Guidelines:
+1. Type your choice of weapon in the prompt. Options should be: rock, paper, or scissors.
+2. The opponent's choice of weapon is randomized.
+3. Open Developer Tools > Console to see the points for each round.
+4. Score 5 points first to win the game.
+
+(This project is in progress. Game UI to follow.)
