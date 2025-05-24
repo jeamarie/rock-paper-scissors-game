@@ -2,7 +2,7 @@
 
 JavaScript Project: Rock Paper Scissors
 
-Do you have what it takes to be the Bato-Bato-Pik champion! Battle against the computer in this game of Rock, Papers, Scissors! 
+Do you have what it takes to be the Bato-Bato-Pik champion? Battle against the computer in this game of Rock, Papers, Scissors! 
 
 Guidelines:
 1. Type your choice of weapon in the prompt. Options should be: rock, paper, or scissors.
