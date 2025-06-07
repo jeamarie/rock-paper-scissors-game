@@ -41,7 +41,7 @@ function playGame() {
             || (humanChoice == "paper" && computerChoice == "rock")) {
             humanScore++;
             return `Your score = ${humanScore}, Opponent's score = ${computerScore}
-            Nice! Your ${humanChoice} beat(s) the opponents's ${computerChoice}.`;
+            Nice! Your ${humanChoice} beat(s) the opponent's ${computerChoice}.`;
         } else {
             computerScore++;
             return `Your score = ${humanScore}, Opponent's score = ${computerScore}
